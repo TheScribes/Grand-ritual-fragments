@@ -28,7 +28,6 @@ Consulting prior iterations of these fragments is expressly forbidden by the Com
 
 The path of refinement is, by its nature, littered with abandoned constants and temporary truths. One is not to dwell on them.
 
-wordOfOpening = Th3Anc1entP1peL1neWa5A-M1sTAke!!
 ---
 
 **This archive is now sealed.**
